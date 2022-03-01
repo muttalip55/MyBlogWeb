@@ -1,2 +1,2 @@
 # MyBlogWeb
- ASP.NET MVC, MSQL
+ ASP.NET MVC, MS SQL
